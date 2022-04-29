@@ -1,0 +1,46 @@
+  body {
+    background-color: #F5F5F5;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1,h2,h3{
+    color: #3FC1C9;
+  }
+  h4{
+    color: #364F6B;
+  }
+th{
+  color: #364F6B;
+}
+
+
+#img1 {
+  width: 420px;
+  height: 280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#chicago {
+  width: 250px;
+  height: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#dog {
+  width: 500px;
+  height: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
